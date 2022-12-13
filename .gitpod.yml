@@ -1,0 +1,6 @@
+vscode:
+  extensions:
+    - golang.go
+image:
+  file: .gitpod.Dockerfile
+
